@@ -1,0 +1,30 @@
+.bg_section button , .bg_section button:hover{
+    background-color: #f777a1;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.card_icons {
+display: flex;
+justify-content: space-between;
+box-shadow: 0px 23px 95px 1px rgba(0, 0, 0, 0.3);
+padding: 3px;
+}
+.card{
+    min-height: 180px;
+}
+.card_icons a{
+font-size: 20px;
+color: black;
+transition: all 0.3s;
+}
+
+.card_icons a:nth-child(2):hover{
+    color: #07f542;
+
+}
+.card_icons a:nth-child(1):hover{
+    color: red;
+
+}

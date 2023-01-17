@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;500;600;700&family=La+Belle+Aurore&family=Lobster&family=Montserrat:wght@300&family=Rubik+Gemstones&family=Rubik+Vinyl&display=swap');
+.link_style{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+ 
+  }
+  .link_style:hover{
+    color: white;
+  }
+nav .logo{
+  
+color:#f777a1;
+font-family: 'Rubik Gemstones', cursive;
+font-size: 25px;
+  }
+
+  nav button{
+ 
+   background: rgb(135,134,138);
+   background: linear-gradient(90deg, rgba(135,134,138,1) 0%, rgba(119,144,192,1) 35%, rgba(247,119,161,1) 100%);
+  
+  }
+  nav h5{
+    color: rgb(135,134,138);
+    font-weight: 700;
+  }

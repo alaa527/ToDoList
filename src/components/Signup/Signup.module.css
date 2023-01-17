@@ -1,0 +1,11 @@
+.Register_btn , .Register_btn:hover{
+    background: rgb(135,134,138);
+    color: white;
+    font-weight: 600;
+background: linear-gradient(90deg, rgba(135,134,138,1) 0%, rgba(119,144,192,1) 35%, rgba(247,119,161,1) 100%);
+
+}
+.Rform_style i{
+    font-size: 45px;
+    color: rgba(247,119,161,1);
+}
